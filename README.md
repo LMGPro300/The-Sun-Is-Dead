@@ -28,6 +28,9 @@ Weird Blueprints <br>
 Slient Hill 3 <br>
 > Don't worry your computer is fine, there is no audio <br>
 
+4 Elixir Freeze <br>
+> If you become in-between two buildings, you get softlocked lol <br>
+
 **LMK if you find any other bugs (I won't fix them)**
 
 ## ---> How To Play
