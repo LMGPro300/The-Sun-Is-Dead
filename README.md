@@ -15,10 +15,13 @@ They made a FIFA World Cup looking ahhhhh to buff the Sun HP by alot (alot), the
 ### Known Bugs
 Floating <br>
 > Moving onto something that isnt the ground and also curves you upward makes you float, **press jump to fix** <br>
+
 Weird Wrench Idle <br>
 > I have no clue why this happens, prob skill issue <br>
+
 Flashbang <br>
 > Placing a bunch of torches together makes a permanent flashbang, **just dont place bunch of torches together** <br>
+
 Weird Blueprints <br>
 > Some parts of blueprints are weird and only show part of it just a visual bug, the blueprint itself still works as intended <br>
 
