@@ -48,32 +48,33 @@ You are given some time to prepare without threats, after this time Girjus's wil
 - Build but not build (idk)
 - Bonk!
 ### Buildings
-**Torch** - Basic lighting 
-**Basic turret** - Basic defense
-**Harvester** - Harvest surrounding resources
-**Smelter** - Smelt iron ore into iron bars
-**SMG Turret** - Better defense
-**Ranger Turret** - Bestest defense
-**Example Generator** - Legit does nothing, pretty cool tho
+**Torch** - Basic lighting <br>
+**Basic turret** - Basic defense<br>
+**Harvester** - Harvest surrounding resources<br>
+**Smelter** - Smelt iron ore into iron bars<br>
+**SMG Turret** - Better defense<br>
+**Ranger Turret** - Bestest defense<br>
+**Example Generator** - Legit does nothing, pretty cool tho<br>
+
 ### Interact
-**Harvester** - Shows what resource it's harvesting and also if it's harvesting
-**Smelter** - Shows basic info on what it does
-**Example Generator** - Shows energy generation but energy doesnt do anything
-**Press Q to remove any of these windows to close**
+**Harvester** - Shows what resource it's harvesting and also if it's harvesting<br>
+**Smelter** - Shows basic info on what it does<br>
+**Example Generator** - Shows energy generation but energy doesnt do anything<br>
+**Press Q to remove any of these windows to close**<br>
 
 
 ## ---> WARNING
 This game is best played with trial and error, however if you are noob I can help you with some tips below yes
 
-Try and locate all 3 resources quickly, you can use your hammer to plan where you want stuff to go
-After lighting up and locating all 3 resources try getting a smelter and then a harvester on iron ore
-If around this time Wave 1 appears, use basic turrets or smg turrets to fend off for now
-Get harvesters on each resource so you dont run out, get additional harvesters if that resource is lacking
-Wave 4 is considered pretty scary (imo) consider getting up additional defense
-Finish with your smelters and harvesters
-Light up the area more and start preparing lots of defense 
-Place Smg turrets around the outside and ranger turrets where ever(they have inf range)
-GOOD LUCK!
+Try and locate all 3 resources quickly, you can use your hammer to plan where you want stuff to go<br>
+After lighting up and locating all 3 resources try getting a smelter and then a harvester on iron ore<br>
+If around this time Wave 1 appears, use basic turrets or smg turrets to fend off for now<br>
+Get harvesters on each resource so you dont run out, get additional harvesters if that resource is lacking<br>
+Wave 4 is considered pretty scary (imo) consider getting up additional defense<br>
+Finish with your smelters and harvesters<br>
+Light up the area more and start preparing lots of defense <br>
+Place Smg turrets around the outside and ranger turrets where ever(they have inf range)<br>
+GOOD LUCK!<br>
 
 
 
