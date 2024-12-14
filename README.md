@@ -25,6 +25,9 @@ Flashbang <br>
 Weird Blueprints <br>
 > Some parts of blueprints are weird and only show part of it just a visual bug, the blueprint itself still works as intended <br>
 
+Slient Hill 3 <br>
+> Don't worry your computer is fine, there is no audio <br>
+
 **LMK if you find any other bugs (I won't fix them)**
 
 ## ---> How To Play
@@ -37,6 +40,7 @@ You are given some time to prepare without threats, after this time Girjus's wil
 ### Hammer
 - Spinnnnnnn
 - Build but not build (idk)
+- Bonk!
 
 
 
