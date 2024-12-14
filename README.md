@@ -12,6 +12,9 @@ They made a FIFA World Cup looking ahhhhh to buff the Sun HP by alot (alot), the
 **R** - Go to next building (toggles build mode) <br>
 **Q** - Close menu (this one is good to know) <br> 
 
+## Trailer
+<br><br>
+
 ### -> Known Bugs
 Floating <br>
 > Moving onto something that isnt the ground and also curves you upward makes you float, **press jump to fix** <br>
@@ -65,7 +68,7 @@ You are given some time to prepare without threats, after this time Girjus's wil
 
 ## ---> WARNING
 This game is best played with trial and error, however if you are noob I can help you with some tips below yes
-
+<br><br>
 Try and locate all 3 resources quickly, you can use your hammer to plan where you want stuff to go<br>
 After lighting up and locating all 3 resources try getting a smelter and then a harvester on iron ore<br>
 If around this time Wave 1 appears, use basic turrets or smg turrets to fend off for now<br>
@@ -75,6 +78,12 @@ Finish with your smelters and harvesters<br>
 Light up the area more and start preparing lots of defense <br>
 Place Smg turrets around the outside and ranger turrets where ever(they have inf range)<br>
 GOOD LUCK!<br>
+<br>
+
+## ---> FULL WALKTHROUGH
+If you are too lazy to play or you very noob
+
+
 
 
 
