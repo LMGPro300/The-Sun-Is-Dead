@@ -1,7 +1,7 @@
 # The Sun Is Dead
 No more Sun, a bunch of Girjus's took over Earth and also 360 no-scoped the Sun. The rest of humanity hopped on the Battle Bus and landed on Mars, after smashing some Mars rocks together we got bored and wanted to go back to Earth. 
 They made a FIFA World Cup looking ahhhhh to buff the Sun HP by alot (alot), they sent a funny man with a hammer to go fix the Sun Shooter 6000 (it was already fixed). But the Girjus's have started spamming 11 elixir at the bridge, you also forgot your gold scar on Mars, good thing king tower is activated.
-### Controls
+### ---> Controls
 **WASD** - Movement <br>
 **Mouse** - Camera Movement <br>
 **Space** - Jump <br>
@@ -12,7 +12,7 @@ They made a FIFA World Cup looking ahhhhh to buff the Sun HP by alot (alot), the
 **R** - Go to next building <br>
 **Q** - Close menu <br>
 
-### Known Bugs
+### -> Known Bugs
 Floating <br>
 > Moving onto something that isnt the ground and also curves you upward makes you float, **press jump to fix** <br>
 
@@ -27,7 +27,7 @@ Weird Blueprints <br>
 
 **LMK if you find any other bugs (I won't fix them)**
 
-## How To Play
+## ---> How To Play
 You are given some time to prepare without threats, after this time Girjus's will start arriving continously, your goal is to survive 10 waves for the Sun Shooter 6000 to snipe the Sun. If one Girjus touches the Sun Shooter 6000, you lose.
 ### Wrench
 - Engineer Gaming
