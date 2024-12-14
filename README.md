@@ -12,10 +12,10 @@ They made a FIFA World Cup looking ahhhhh to buff the Sun HP by alot (alot), the
 **R** - Go to next building (toggles build mode) <br>
 **Q** - Close menu (this one is good to know) <br> 
 
-## Trailer
+## ---> Trailer
 <br><br>
 
-### -> Known Bugs
+## ---> Known Bugs
 Floating <br>
 > Moving onto something that isnt the ground and also curves you upward makes you float, **press jump to fix** <br>
 
